@@ -22,7 +22,7 @@ Funcionalidades
 
 Publicação
 Acesse o site:
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://renanbarth.github.io/Desenvolvendo-e-Publicando-uma-P-gina-Informativa/
 
 Licença
  Este projeto está sob a licença MIT.
