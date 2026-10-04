@@ -22,7 +22,7 @@ Funcionalidades
 
 Publicação
 Acesse o site:
-https://SEU-USUARIO.github.io/segunda-guerra-mundial/
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 Licença
  Este projeto está sob a licença MIT.
